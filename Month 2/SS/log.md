@@ -7,6 +7,6 @@
 
 
 ### Screenshots
-![Cookiecutter](Cookiecutter.png)(Cookiecutter-.png)
-
+![Cookiecutter](Cookiecutter.png)
+![Cookiecutter](Cookiecutter-.png)
 ---
